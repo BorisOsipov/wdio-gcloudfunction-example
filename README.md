@@ -1,7 +1,7 @@
 # wdio-gcloudfunction-example
 How to run wdio spec as google cloud function
 
-#№ Setup
+## Setup
 
 Run `npm install`  
 Deploy code as google cloud function  
