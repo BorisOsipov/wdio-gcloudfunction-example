@@ -1,0 +1,21 @@
+{
+  "name": "wdio-gcp",
+  "version": "0.0.1",
+  "description": "Sample of running wdio test in gcp",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Boris Osipov <osipov.boris@gmail.com>",
+  "dependencies": {
+    "puppeteer": "^1.6.2",
+    "wdio-mocha-framework": "^0.6.3",
+    "wdio-spec-reporter": "^0.1.5",
+    "webdriverio": "^4.13.2",
+    "chromedriver": "^2.41.0",
+    "wdio-chromedriver-service": "^0.1.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+  }
+}
